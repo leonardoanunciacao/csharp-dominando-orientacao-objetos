@@ -1,0 +1,15 @@
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/ScreenSound
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/ScreenSound.deps.json
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/ScreenSound.runtimeconfig.json
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/ScreenSound.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/ScreenSound.pdb
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfoInputs.cache
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.AssemblyInfo.cs
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.CoreCompileInputs.cache
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.sourcelink.json
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/refint/ScreenSound.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
