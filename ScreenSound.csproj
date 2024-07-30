@@ -11,4 +11,8 @@
     <Folder Include="Modelos/" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="OpenAI" Version="1.11.0" />
+  </ItemGroup>
+
 </Project>

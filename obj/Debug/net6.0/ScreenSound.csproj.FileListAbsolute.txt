@@ -13,3 +13,17 @@
 /Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.pdb
 /Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.genruntimeconfig.cache
 /Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ref/ScreenSound.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Http.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/bin/Debug/net6.0/OpenAI_API.dll
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSound.csproj.AssemblyReference.cache
+/Users/leonardoanunciacao/csharp-course/dominando-orientacao-a-objeto/ScreenSound03-projeto-inicial/ScreenSound/obj/Debug/net6.0/ScreenSo.4E60E543.Up2Date
